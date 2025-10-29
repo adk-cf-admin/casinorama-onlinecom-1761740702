@@ -1,0 +1,204 @@
+{
+    "en-CA": {
+        "styles": {
+            "bg": "#0a0a0a",
+            "lang-select-color": "#222829",
+            "bg-light": "#191919",
+            "welcome-bonus-bg": "#191919",
+            "top-games-hover-fg": "#ffffff",
+            "main-bg": "#0a0a0a",
+            "text": "#f8f6f6",
+            "text-black": "#ffffff",
+            "table-head": "#191919",
+            "text-head": "#ffffff",
+            "hero-title-text": "#222829",
+            "welcome-bonus-text": "#C02C2C",
+            "yellow": "#E5912A",
+            "yellow-button": "#C02C2C",
+            "button-text": "#ffffff",
+            "main-button-text": "#ffffff",
+            "border-color": "#efefdc",
+            "casino-cards": "#a39999",
+            "bonus-border-head": "#efefdc",
+            "bonus-border": "#000033",
+            "pay-back": "#deeadf",
+            "providers-back": "#191919",
+            "faq-label": "#a39999",
+            "bg-footer": "#191919",
+            "copyright": "#e7e7d5",
+            "starColor": "#E5912A",
+            "baseFont": {
+                "value": "Roboto",
+                "isCustom": false
+            },
+            "primaryFont": {
+                "value": "Open Sans",
+                "isCustom": false
+            },
+            "welcomeBonusFont": {
+                "value": "Roboto",
+                "isCustom": false
+            }
+        },
+        "seo": {
+            "name": "Casino Rama Resort",
+            "title": "Casino Rama Resort \u2014 Top Games, Bets & Shows in Ontario",
+            "description": "Discover Casino Rama Resort \u2014 Ontario\u2019s premier casino destination with slots, table games, concerts, fine dining, and luxury accommodations. Explore betting limits, events, and exclusive offers.",
+            "canonical": "casinorama-online.com",
+            "ogImage": "https:\/\/backend.builder.adkey.org:443\/api\/images\/download\/260",
+            "ogImageWidth": 1200,
+            "ogImageHeight": 630,
+            "twitterSite": "",
+            "favicon": "https:\/\/backend.builder.adkey.org:443\/api\/images\/download\/257",
+            "keywords": "casino, online casino, gambling, slots, table games"
+        },
+        "icons": {
+            "icon192": "https:\/\/backend.builder.adkey.org:443\/api\/images\/download\/258"
+        },
+        "header": {
+            "logo": "https:\/\/backend.builder.adkey.org:443\/api\/images\/download\/253",
+            "imageSizeModifier": 0,
+            "imageYModifier": 0,
+            "imageXModifier": 0,
+            "logoAlt": "Casino Rama Resort Logo"
+        },
+        "nav": {
+            "signUp": "Sign Up",
+            "playNow": "Play Now"
+        },
+        "hero": {
+            "title": "Entertainment, Gaming & Relaxation at Casino Rama Resort",
+            "textDesktop": "Exclusive welcome offer of",
+            "textMobile": "Exclusive welcome bonus of",
+            "playGame": "Play game",
+            "claimBonus": "Claim Bonus",
+            "image": "https:\/\/backend.builder.adkey.org:443\/api\/images\/download\/249",
+            "imageSizeModifier": 0,
+            "imageYModifier": 0,
+            "imageXModifier": 0,
+            "mobileImage": "https:\/\/backend.builder.adkey.org:443\/api\/images\/download\/250",
+            "mobileImageSizeModifier": 0,
+            "mobileImageYModifier": 1,
+            "mobileImageXModifier": 0
+        },
+        "topCasino": {
+            "topCasinoButtonText": "Claim Bonus",
+            "title": "Top Casino",
+            "allCasino": "All Casino",
+            "welcomeBonusText": "Welcome bonus"
+        },
+        "bonusDetails": {
+            "title": "Bonus Details",
+            "getBonusButtonText": "Get Bonus",
+            "maximumAmountText": "Maximum amount",
+            "wagerText": "Wager",
+            "bonusCodeText": "Bonus Code",
+            "casino": "Casino",
+            "bonuses": "Bonuses",
+            "rate": "Rate",
+            "freeSpins": "Free Spins",
+            "moreInfo": "More Info",
+            "get": "Get",
+            "refresh": "Refresh"
+        },
+        "advantages": {
+            "title": "Advantages",
+            "advantagesBeforeText": "",
+            "items": [
+                "Over 2,000 slot machines and tables",
+                "Luxury suites with lakefront views",
+                "Live concerts by global music stars",
+                "Diverse restaurants with international cuisine",
+                "Spa, saltwater pool, sauna, fitness center",
+                "Cultural connection to First Nation community"
+            ],
+            "advantagesAfterText": "",
+            "knowMore": "Know more",
+            "appTitle": "Casino Rama Resort App",
+            "mobile": "https:\/\/backend.builder.adkey.org:443\/api\/images\/download\/262",
+            "imageSizeModifier": 0,
+            "imageYModifier": 0,
+            "imageXModifier": 0,
+            "mobileAlt": "Casino Rama Resort App",
+            "mobileGooglePlayImageTitle": "Casino Rama Resort App",
+            "mobileIosImageTitle": "Casino Rama Resort App"
+        },
+        "games": {
+            "playNowText": "Play now",
+            "title": "Popular Games",
+            "allGames": "All Games"
+        },
+        "about": {
+            "history": {
+                "title": "About Casino Rama Resort",
+                "description1": "",
+                "items": [
+                    "Jackpots up to $15,000 at tables",
+                    "Slot bonuses reaching $10,000",
+                    "My Club program \u2014 more rewards"
+                ],
+                "description2": "Casino Rama Resort is a luxury casino resort in Ontario, Canada, located on the land of the Chippewas of Rama First Nation. It\u2019s a unique destination combining gaming, relaxation, and world-class entertainment.",
+                "image": "https:\/\/backend.builder.adkey.org:443\/api\/images\/download\/263",
+                "imageSizeModifier": 0,
+                "imageYModifier": 0,
+                "imageXModifier": 0,
+                "imageAlt": "History",
+                "description3": "The resort features over 2,000 slot machines and 60+ table games, including blackjack, roulette, and poker. Jackpots reach up to $15,000, and slot bonuses go as high as $10,000, making it ideal for big win seekers.\nGuests enjoy 289 luxury suites, a spa, saltwater pool, fitness center, and 8 restaurants offering international cuisine. The 5,000-seat entertainment center hosts concerts by global music stars."
+            }
+        },
+        "custom": {
+            "customHtml": {
+                "title": "Casino Rama Resort \u2014 Gaming, Luxury, and Big Rewards in Ontario",
+                "description": "<p> Casino Rama Resort is a one-of-a-kind destination that blends thrilling casino action, luxurious accommodations, and world-class entertainment. Located on the scenic land of the Chippewas of Rama First Nation, the resort features over 1,800 slot machines, dozens of live dealer tables, and high-limit games including poker, roulette, and blackjack. Regular promotions offer jackpots up to $15,000 and slot bonuses reaching $10,000, making it a hotspot for big win seekers.<\/p>\n<br>\n<p>The hotel offers 289 luxury suites with lake views, a full-service spa, a saltwater pool, and a fitness center. Guests can dine at one of eight restaurants, including St. Germain\u2019s Steakhouse, Couchiching Court Buffet, and venues serving Asian and Italian cuisine. Stylish bars and lounges provide cocktails and live music for evening relaxation.<\/p>\n<br>\n<p>The 5,000-seat entertainment center hosts global stars like Mariah Carey, Ringo Starr, and Carrie Underwood. The My Club Rewards loyalty program lets guests earn points for gaming, dining, and hotel stays, redeemable for free play, meals, concert tickets, and merchandise. Members enjoy exclusive deals, VIP events, and personalized bonuses.<\/p>\n<br>\n<p> Casino Rama is more than a casino \u2014 it\u2019s a full resort experience where gaming, dining, relaxation, and entertainment come together in one unforgettable getaway.<\/p>\n<br>\n\n<h3 style = \"font-weight: bold;font-size: 32px;\">\nCasino Rama Resort Visitor Rules\n<\/h3>\n<p> To enter the gaming floor at Casino Rama Resort, guests must be at least 19 years old and present valid government-issued photo ID. Those aged 21 or younger must also show a secondary ID with their name. The Entertainment Centre is open to guests 12 years and older.<\/p>\n<br>\n<ul>\n            <li>\u2022 Dress Code: clothing must be clean, no offensive graphics; motorcycle insignia and security\/police-style outfits are prohibited.<\/li>\n            <li>\u2022 Alcohol Policy: no outside alcohol in licensed areas; sealed bottles allowed in hotel rooms only.<\/li>\n            <li>\u2022 Smoking: permitted only in designated smoking areas.<\/li>\n<li>\u2022 Entry Restrictions: intoxicated individuals, self-excluded guests, and previously banned visitors are not allowed.<\/li>\n        <\/ul>\n<br>\n<h3 style = \"font-weight: bold;font-size: 32px;\">\nMy Club Rewards Loyalty Program\n<\/h3>\n\n<p> My Club Rewards is a multi-tiered loyalty program available at Casino Rama Resort and other Gateway Casinos locations. Membership is free \u2014 just present a valid photo ID at the My Club desk to receive your personalized card.<\/p>\n<br>\n<div\n lang=\"en\"\n     style=\"\n       -webkit-columns: 320px 2;\n       -moz-columns: 320px 2;\n       columns: 320px 2;\n\n        -webkit-column-gap: 1.2em;\n       -moz-column-gap: 1.2em;\n       column-gap: 1.2em;\n \n       hyphens: auto;\n\">\n\n\n   <!-- \u041b\u0435\u0432\u0430\u044f \u043a\u043e\u043b\u043e\u043d\u043a\u0430 -->\n    <div style=\"break-inside: avoid; -webkit-column-break-inside: avoid; -moz-column-break-inside: avoid;\">\n        <h4 style = \"font-weight: bold; font-size: 24px;\">How to Redeem Points:<\/h4>\n      <ul>\n            <li>\u2022 Free slot play<\/li>\n            <li>\u2022 Dining credits<\/li>\n            <li>\u2022 Hotel discounts<\/li>\n<li>\u2022 Concert and show tickets<\/li>\n<li>\u2022 Branded merchandise and gifts<\/li>\n        <\/ul>\n       \n    <\/div>\n\n    <!-- \u041f\u0440\u0430\u0432\u0430\u044f \u043a\u043e\u043b\u043e\u043d\u043a\u0430 -->\n    <div style=\"break-inside: avoid; -webkit-column-break-inside: avoid; -moz-column-break-inside: avoid;\">\n        <h4 style = \"font-weight: bold; font-size: 24px;\">How to Earn Points:<\/h4>\n        <ul>\n            <li>\u2022 Slot and table play: points are earned based on wager volume, not wins.<\/li>\n            <li>\u2022  Dining and drinks: earn points when paying at restaurants and bars.<\/li>\n            <li>\u2022 Hotel stays: earn points for room payments.<\/li>\n<li>\u2022 Events and promotions: bonus points during special offers.<\/li>\n\n        <\/ul>\n   \n    <\/div>\n<\/div>\n\n<h4 style = \"font-weight: bold; font-size: 24px;\">Membership Tiers:<\/h4>\n        <ul>\n            <li>\u2022 Rewards (0\u2013999 points) \u2014 entry-level\n<\/li>\n            <li>\u2022 Silver (1,000\u20134,999) \u2014 priority lines, free valet parking\n<\/li>\n            <li>\u2022 Gold (5,000\u201324,999) \u2014 enhanced offers, event invitations\n<\/li>\n  <li>\u2022 Elite (25,000\u201399,999) \u2014 concierge service, personalized gifts\n<\/li>\n  <li>\u2022 Ultra (100,000+) \u2014 VIP host, top-tier benefits\n\n<\/li>\n        <\/ul>\n        <br>\n<p>\n       Higher tiers unlock more personalized deals, VIP access, and exclusive promotions tailored to your preferences.\n        <\/p>\n"
+            }
+        },
+        "softwareProviders": {
+            "title": "Software Providers"
+        },
+        "custom_2": {
+            "customHtml_2": {
+                "title": "Entertainment & Gaming at Casino Rama",
+                "description": "<h3 style = \"font-weight: bold;font-size: 32px;\">\nCasino Rama Resort Bonuses and Special Offers\n<\/h3>\n\n<p> Casino Rama offers a variety of generous promotions and bonuses that enhance both gaming and entertainment experiences. New players are welcomed with a bonus of up to $600 and 50 free spins, perfect for exploring the casino\u2019s wide selection of games. Crypto users can enjoy a 150% bonus on their first Bitcoin deposit, giving them extra value.<\/p>\n<br>\n<p> Deposit match promotions allow players to receive a percentage of their deposit back as bonus funds, boosting their bankroll and extending playtime.<\/p>\n<br>\n<p> Slot enthusiasts can take advantage of free spins on popular machines. These offers are updated regularly and can be found in the player\u2019s account dashboard.<\/p>\n<br>\n<p> Beyond gaming, Casino Rama hosts entertainment-based promotions, such as:\n\n<\/p>\n <ul>\n            <li>\u2022 Holiday Giftaway \u2014 festive prize giveaways\n<\/li>\n            <li>\u2022 Spin to Win Mondays \u2014 free spins every Monday\n<\/li>\n            <li>\u2022 Texas Hold\u2019em Countdown Challenge \u2014 poker tournaments with prizes [casinorama.com]<\/li>\n        <\/ul>\n<br>\n <p>\n           Seasonal events, themed parties, and concerts often come with discounts or complimentary tickets for participants in gaming promotions.\n        <\/p>\n<br>\n<h3 style = \"font-weight: bold;font-size: 32px;\">\nPopular Games at Casino Rama Resort\n<\/h3>\n\n<p> Casino Rama Resort features over 1,800 slot machines and 60+ live table games, offering a mix of classic and modern experiences. Top slot titles include Wheel of Fortune\u00ae, Buffalo\u2122, Dragon Link\u2122, Lightning Link\u2122, 5 Treasures\u2122, T-Rex II, Mystic Fortune Megaways, Pirate\u2019s Bounty, and Neon Classic Reels. These machines are known for immersive themes, bonus rounds, cascading wins, and progressive jackpots.<\/p>\n<br>\n <ul>\n            <li>\u2022 T-Rex II delivers dinosaur-themed action with 5 reels, 25 paylines, wild features, and free spins.<\/li>\n            <li>\u2022 Mystic Fortune Megaways offers dynamic reel setups, cascading symbols, and multipliers.<\/li>\n            <li>\u2022 Pirate\u2019s Bounty features treasure maps, stacked wilds, and chest-style jackpots.<\/li>\n<li>\u2022 Neon Classic Reels updates retro slots with neon visuals, sticky wilds, and multipliers.\n<\/li>\n        <\/ul>\n<br>\n<p>\n     Popular table games include Blackjack, Roulette, Baccarat, and various forms of Poker such as Texas Hold\u2019em, Caribbean Stud, Pai Gow, Three Card Poker, Mississippi Stud, and Let It Ride Bonus. High-stakes players can enjoy the High Limits Room with private tables and premium service.\n        <\/p><br>\n <p>\n       Electronic versions of blackjack, baccarat, and roulette are also available, offering lower limits and user-friendly interfaces.\n        <\/p>\n\n<h3 style = \"font-weight: bold;font-size: 32px;\">\nMinimum and Maximum Bets at Casino Rama Resort\n<\/h3>\n\n<p> Casino Rama offers a wide range of betting limits suitable for casual players and high rollers alike. Below is a table with current limits for popular games:<\/p>\n\n<br>\n\n\n<table style=\"width:100%; border-collapse:collapse; margin-top:16px;\">\n            <thead>\n                <tr style=\"background:#a39999; color:#fff;\">\n                    <th style=\"border:2px solid #ccc; padding:8px; text-align:left;\">Game Type<\/th>\n                    <th style=\"border:2px solid #ccc; padding:8px; text-align:center;\">Minimum Bet<\/th>\n                    <th style=\"border:2px solid #ccc; padding:8px; text-align:center;\">Maximum Bet<\/th>\n                <\/tr>\n            <\/thead>\n            <tbody>\n                <tr>\n                    <td style=\"border:1px solid #ccc; padding:8px;\">Slots (regular)<\/td>\n                    <td style=\"border:1px solid #ccc; padding:8px; text-align:center;\">from 0.01 CAD<\/td>\n                    <td style=\"border:1px solid #ccc; padding:8px; text-align:center;\">up to 100 CAD\/spin<\/td>\n                <\/tr>\n                <tr>\n                    <td style=\"border:1px solid #ccc; padding:8px;\">Slots (high-limit)<\/td>\n                    <td style=\"border:1px solid #ccc; padding:8px; text-align:center;\">from 1 CAD<\/td>\n                    <td style=\"border:1px solid #ccc; padding:8px; text-align:center;\">up to 100 CAD\/spin<\/td>\n                <\/tr>\n                <tr>\n                    <td style=\"border:1px solid #ccc; padding:8px;\">Blackjack<\/td>\n                    <td style=\"border:1px solid #ccc; padding:8px; text-align:center;\">from 25 CAD<\/td>\n                    <td style=\"border:1px solid #ccc; padding:8px; text-align:center;\">up to 5,000 CAD<\/td>\n                <\/tr>\n                <tr>\n                    <td style=\"border:1px solid #ccc; padding:8px;\">Baccarat<\/td>\n                    <td style=\"border:1px solid #ccc; padding:8px; text-align:center;\">from 50 CAD<\/td>\n                    <td style=\"border:1px solid #ccc; padding:8px; text-align:center;\">up to 15,000 CAD<\/td>\n                <\/tr>\n                <tr>\n                    <td style=\"border:1px solid #ccc; padding:8px;\">Roulette<\/td>\n                    <td style=\"border:1px solid #ccc; padding:8px; text-align:center;\">from 5 CAD<\/td>\n                    <td style=\"border:1px solid #ccc; padding:8px; text-align:center;\">up to 10,000 CAD<\/td>\n                <\/tr>\n     <tr>\n                    <td style=\"border:1px solid #ccc; padding:8px;\">Pai Gow Poker<\/td>\n                    <td style=\"border:1px solid #ccc; padding:8px; text-align:center;\">from 25 CAD<\/td>\n                    <td style=\"border:1px solid #ccc; padding:8px; text-align:center;\">up to 2,500 CAD<\/td>\n                <\/tr>\n <tr>\n                    <td style=\"border:1px solid #ccc; padding:8px;\">Tie & Pair Bets<\/td>\n                    <td style=\"border:1px solid #ccc; padding:8px; text-align:center;\">from 25 CAD<\/td>\n                    <td style=\"border:1px solid #ccc; padding:8px; text-align:center;\">up to 3,000 CAD<\/td>\n                <\/tr>\n <tr>\n                    <td style=\"border:1px solid #ccc; padding:8px;\">Electronic Table Games (ETG)<\/td>\n                    <td style=\"border:1px solid #ccc; padding:8px; text-align:center;\">from 3 CAD<\/td>\n                    <td style=\"border:1px solid #ccc; padding:8px; text-align:center;\">up to 300 CAD<\/td>\n                <\/tr>\n            <\/tbody>\n        <\/table>\n<br>\n<p> These limits allow players to manage their bankrolls effectively and choose their preferred level of risk. High-stakes options are available in the exclusive High Limits Room.<\/p>\n\n<br>\n<h3 style = \"font-weight: bold;font-size: 32px;\">\nEvents and Entertainment at Casino Rama Resort\n<\/h3>\n\n<p> Casino Rama Resort is not just a casino \u2014 it\u2019s one of Ontario\u2019s top entertainment destinations. Its 5,000-seat Entertainment Centre hosts weekly concerts, comedy shows, cultural festivals, and seasonal celebrations.<\/p>\n\n<br>\n<h4 style = \"font-weight: bold; font-size: 24px;\">Concerts<\/h4>\n        <p>\n          The stage welcomes global stars and music legends like Sarah McLachlan, Jerry Seinfeld, Kansas, Marianas Trench, Chelsea Handler, Tony Hinchcliffe, Ron White, and Elton Rohn, along with tribute acts for Elvis Presley, The Rolling Stones, Queen, and Eagles.\n        <\/p>\n <h4 style = \"font-weight: bold; font-size: 24px;\">Special Events<\/h4>\n\n<ul>\n            <li>\u2022 Holiday Dreams \u2014 a holiday-themed show with acrobatics and lights\n<\/li>\n            <li>\u2022 Million Dollar Christmas Miracle \u2014 festive performance with prize giveaways\n<\/li>\n            <li>\u2022 The Price is Right Live \u2014 interactive game show experience\n<\/li>\n <li>\u2022 Legends Show \u2014 tribute to Buddy Holly, Roy Orbison, Motown & Elvis\n<\/li>\n            <li>\u2022 Live UFC screenings, New Year\u2019s Eve galas, BBQ weekends, Indigenous music showcases, and Lunar New Year festivals<\/li>\n            \n        <\/ul>\n<h4 style = \"font-weight: bold; font-size: 24px;\">Comedy Nights<\/h4>\n\n        <p>\n          Top comedians regularly perform, including Russell Peters, Steve Martin & Martin Short, Ron White, Howie Mandel, and Tony Hinchcliffe.\n        <\/p>\n\n<h4 style = \"font-weight: bold; font-size: 24px;\">Event Format<\/h4>\n        <p>\n            Most shows are held on Fridays and Saturdays, with some daytime and family-friendly performances. Tickets are available via the Casino Rama website or Ticketmaster. Early booking is recommended for popular dates.\n        <\/p>\n<br>\n<h3 style = \"font-weight: bold;font-size: 32px;\">\nRelaxation, Bars and Dining at Casino Rama Resort\n<\/h3>\n\n<p> Casino Rama Resort offers a full resort experience with comfort, cuisine, and relaxation. The hotel features 289 luxury suites, styled like lakeside cottages, with spacious bathrooms, lounge areas, and scenic views. Guests enjoy 24-hour room service, access to a heated indoor saltwater pool, dry sauna, eucalyptus steam room, and a fully equipped fitness center.<\/p>\n<br>\n<p> Dining options include 8 restaurants and bars, such as:\n\n<\/p>\n<ul>\n            <li>\u2022 St. Germain\u2019s Steakhouse \u2014 premium steaks and fine wines\n<\/li>\n            <li>\u2022 Couchiching Court Buffet \u2014 international buffet selections\n<\/li>\n            <li>\u2022 Simcoe Yard House \u2014 sports bar with beer and snacks\n<\/li>\n <li>\u2022 The Willow \u2014 Asian cuisine\n<\/li>\n            <li>\u2022 Cedar \u2014 caf\u00e9 with light meals and desserts\n<\/li>\n            <li>\u2022 The Noodle Bar \u2014 Eastern noodle dishes\n<\/li>\n <li>\u2022 Centre Bar \u2014 cocktails and drinks in the heart of the casino\n<\/li>\n            <li>\u2022 Dream Catcher Lounge \u2014 live music and lounge snacks<\/li>\n            \n        <\/ul>\n<br>\n<p>\n           Relaxation at Casino Rama goes beyond gaming. After a day of excitement, guests can unwind with spa treatments, swim in the pool, or enjoy live music in the lounge. The resort is perfect for both gaming enthusiasts and those seeking a peaceful, luxurious escape.\n        <\/p>"
+            }
+        },
+        "faq": {
+            "title": "Frequently Asked Questions",
+            "items": [
+                {
+                    "title": "Do I need to register before visiting?",
+                    "answer": "No registration is required, but it's recommended for promotions."
+                },
+                {
+                    "title": "What payment methods are accepted?",
+                    "answer": "Cash, credit\/debit cards, and internal gaming account top-ups."
+                },
+                {
+                    "title": "What languages are available for service?",
+                    "answer": "English is primary; French and other languages available upon request.\n\n\n"
+                },
+                {
+                    "title": "What are the minimum betting limits?",
+                    "answer": "Slots from 0.01 CAD; table games from 5\u201325 CAD."
+                },
+                {
+                    "title": "Is parking available for guests?",
+                    "answer": "Yes, free parking is available for all visitors.\n\n\n"
+                }
+            ]
+        },
+        "footer": {
+            "logo": "https:\/\/backend.builder.adkey.org:443\/api\/images\/download\/259",
+            "imageSizeModifier": 0,
+            "imageYModifier": 0,
+            "imageXModifier": 0,
+            "copyright": "Casino Rama Resort"
+        }
+    },
+    "langs": [
+        {
+            "code": "en-CA",
+            "name": "\u0410\u043d\u0433\u043b\u0438\u0439\u0441\u043a\u0438\u0439",
+            "isDefault": true
+        }
+    ]
+}

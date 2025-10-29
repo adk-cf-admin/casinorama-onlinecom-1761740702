@@ -1,0 +1,5 @@
+User-agent: * 
+Allow: / 
+Disallow: /casino/
+Host: https://casinorama-online.com/
+Sitemap: https://casinorama-online.com/sitemap.xml

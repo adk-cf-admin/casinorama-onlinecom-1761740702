@@ -1,0 +1,19 @@
+{
+  "name": "Casino Rama Resort",
+  "short_name": "Casino Rama Resort",
+  "theme_color": "",
+  "background_color": "#0a0a0a",
+  "display": "standalone",
+  "orientation": "portrait",
+  "scope": "/",
+  "start_url": "/",
+  "icons": [
+    {
+      "src": "_assets/images/1761734034-casinorama.webp",
+      "sizes": "144x144",
+      "type": "image/png",
+      "purpose": "maskable any"
+    }
+  ],
+  "splash_pages": null
+}
